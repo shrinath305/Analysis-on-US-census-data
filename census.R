@@ -1,8 +1,8 @@
 # census-income-mld
 
-train <- read.csv("C:/Users/patel/Desktop/project/project1/train.csv")
+train <- read.csv("train.csv")
 
-test <- read.csv("C:/Users/patel/Desktop/project/project1/test.csv")
+test <- read.csv("test.csv")
 summary(train)
 str(train)
 
